@@ -14,4 +14,4 @@ lalu salin link lalu kirimkan ke tugas PRAKTIKUM 2 B.pemograman
 
 ![gambar](tigabuahbilangan.png)
 
-![gambar](flowchart.png)
+![gambar](flowchart .png)
