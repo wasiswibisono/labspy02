@@ -1,1 +1,15 @@
-# labspy02
+T.BAHASA PEMOGRAMAN
+
+buat repository di git hub
+
+echo "Praktikum 2" >> README.md
+
+github comit -m "deskripsi file"
+
+upload ss an di github
+
+lalu salin link lalu kirimkan ke tugas PRAKTIKUM 2 B.pemograman
+
+<h1></h1>
+
+!{gambar}(dokumentasi/tiga buah bilangan.png)
