@@ -12,4 +12,4 @@ lalu salin link lalu kirimkan ke tugas PRAKTIKUM 2 B.pemograman
 
 <h1></h1>
 
-!{gambar}(dokumentasi/tiga buah bilangan.png)
+!{gambar}(dokumentasi/tigabuahbilangan.png)
