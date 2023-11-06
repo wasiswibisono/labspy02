@@ -10,6 +10,6 @@ upload ss an di github
 
 lalu salin link lalu kirimkan ke tugas PRAKTIKUM 2 B.pemograman
 
-<h1></h1>
++ <h1></h1>
 
-!{gambar}(dokumentasi/tigabuahbilangan.png)
+![gambar](tigabuahbilangan/1.png)
